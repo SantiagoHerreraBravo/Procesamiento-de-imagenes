@@ -1,14 +1,13 @@
 # Procesamiento de imagenes
 
-
 ## Modificar repositorio 
 
->> 创创D:\Documentos\Procesamiento de Imagenes>git init创创
+->> D:\Documentos\Procesamiento de Imagenes>git init
 
->> 创创D:\Documentos\Procesamiento de Imagenes\Procesamiento-de-imagenes>git add .创创
+->> D:\Documentos\Procesamiento de Imagenes\Procesamiento-de-imagenes>git add .
 
->> 创创D:\Documentos\Procesamiento de Imagenes\Procesamiento-de-imagenes>git commit -m "Comentario"创创
+->> D:\Documentos\Procesamiento de Imagenes\Procesamiento-de-imagenes>git commit -m "Comentario"
 
-*Actualizar repositorio en la nube* >> 创创D:\Documentos\Procesamiento de Imagenes\Procesamiento-de-imagenes>git push origin main创创
+*Actualizar repositorio en la nube* >> D:\Documentos\Procesamiento de Imagenes\Procesamiento-de-imagenes>git push origin main
 
-*Actualizar repositorio Local* >> 创创D:\Documentos\Procesamiento de Imagenes\Procesamiento-de-imagenes>git pull创创
+*Actualizar repositorio Local* >> D:\Documentos\Procesamiento de Imagenes\Procesamiento-de-imagenes>git pull
